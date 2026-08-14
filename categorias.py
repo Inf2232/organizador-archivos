@@ -124,6 +124,23 @@ categorias = {
     ".ts": "Videos",
     ".mts": "Videos",
     ".m2ts": "Videos",
+    # ============ SUBTÍTULOS (dentro de Videos) ============
+    ".srt": "Videos",
+    ".sub": "Videos",
+    ".vtt": "Videos",
+    ".ass": "Videos",
+    ".ssa": "Videos",
+    ".sbv": "Videos",
+    ".dfxp": "Videos",
+    ".ttml": "Videos",
+    ".mpl": "Videos",
+    ".usf": "Videos",
+    ".stl": "Videos",
+    ".cap": "Videos",
+    ".scc": "Videos",
+    ".smi": "Videos",
+    ".rt": "Videos",
+    ".idx": "Videos",    # Acompaña a .sub (VobSub)
 
     # ============ ARCHIVOS COMPRIMIDOS ============
     ".zip": "Comprimidos",
